@@ -16,3 +16,11 @@ These Python Scripts scrape over 30,000 of tweets from video game journal accoun
 - tqdm
 - nltk's VADER lexicon (sentiment analysis)
 
+## Scripts
+
+### TweetFetcher
+This Script fetches or scraps Tweets from different stablished accounts using the Twiter API (Deprecated) and the TweePy Library.
+
+### Preprocessing
+Using Natural Language Processing and Sentiment Analysis we find out the most mentioned Entities 
+As well as the general consensus or opinion of these Entities.
